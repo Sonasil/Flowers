@@ -12,6 +12,6 @@ Animasyonlu çiçekler ve parlayan efektler içeren bir websitesi.
 
 ### 🎨 Görsel Önizleme
 
-![Flowers Mobile Preview](./mobile-preview.webp)
+![Flowers Animation](./kayıt.gif)
 
 ---
