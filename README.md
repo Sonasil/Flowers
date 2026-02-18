@@ -4,7 +4,7 @@
 
 Animasyonlu çiçekler ve parlayan efektler içeren bir websitesi.
 
-## Kullanılan Teknoloji /
+## Kullanılan Teknolojiler
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
@@ -14,6 +14,6 @@ Animasyonlu çiçekler ve parlayan efektler içeren bir websitesi.
 
 ### 🎨 Görsel Önizleme
 
-![Flowers Preview](./preview.png)
+![Flowers Mobile Preview](./mobile-preview.webp)
 
 ---
