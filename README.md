@@ -1,7 +1,5 @@
 # 🌸 Flowers
 
-## 📖 Proje Hakkında
-
 Animasyonlu çiçekler ve parlayan efektler içeren bir websitesi.
 
 ## Kullanılan Teknolojiler
